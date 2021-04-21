@@ -2146,6 +2146,11 @@ input, select, textarea {
 	padding: 0;
 }
 
+.certificate{
+	height: 28vh;
+	padding-bottom: 1%
+}
+
 /* Footer */
 
 	#footer {
