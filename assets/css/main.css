@@ -2098,6 +2098,11 @@ input, select, textarea {
 				transform: translateY(1em);
 				opacity: 0;
 			}
+	.profilePic{
+		height: 25vh;
+		border-radius: 100%;
+		border: solid white 5px;
+	}
 
 /* Banner */
 
@@ -2368,6 +2373,7 @@ input, select, textarea {
 			#header {
 				padding: 10em 0 12em 0;
 			}
+
 
 	}
 
