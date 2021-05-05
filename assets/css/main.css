@@ -1529,6 +1529,13 @@ input, select, textarea {
 			float: left;
 			margin: 0 2em 2em 0;
 		}
+		.tests{
+			align-items: center;
+			padding: 5%;
+			padding-right: 25%;
+
+			
+		}
 
 		.image.centered {
 			display: block;
@@ -1905,12 +1912,27 @@ input, select, textarea {
 				padding-left: 3em;
 			}
 
+			.box.style1.right h2{
+				text-align:center;
+				letter-spacing: 2px;
+				line-height: 1.2;
+				
+			}
 			.box.style1.left .image {
 				right: 0;
 			}
 
 				.box.style1.left .image img {
 					left: 0;
+				}
+				.box.style1.left h2{
+					text-align:center;
+					letter-spacing: 2px;
+					line-height: 1.2;
+					
+				}
+				.box.style1.left p{
+					font-size: 1.05rem;
 				}
 
 			.box.style1.left .inner {
