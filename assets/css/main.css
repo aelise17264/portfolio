@@ -1360,6 +1360,7 @@ input, select, textarea {
 					width: 100%;
 				}
 
+		
 				.row > .off-12-mobile {
 					margin-left: 100%;
 				}
@@ -1512,6 +1513,12 @@ input, select, textarea {
 			overflow: hidden;
 			
 		}
+
+		.secrets[title]{
+			overflow: wrap;
+			color: blue
+		}
+
 		.statue{
 			align-items: center;
 			padding: 2%;
@@ -1535,6 +1542,8 @@ input, select, textarea {
 	.balls{
 		padding-top: 20%;
 	}
+
+
 /* List */
 
 	ul {
