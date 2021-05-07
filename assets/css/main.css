@@ -2187,6 +2187,14 @@ input, select, textarea {
 	padding-bottom: 1%
 }
 
+/* Contact */
+p.col-md-8.fs-4{
+	width: 100vw;
+	padding-right: 0;
+	color: blue;
+}
+
+
 /* Footer */
 
 	#footer {
